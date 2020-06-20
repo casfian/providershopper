@@ -38,13 +38,3 @@ represent the app state.
 This directory contains widgets used to construct the two screens of the app: the catalog and
 the cart. These widgets have access to the current state of both the catalog and the cart
 via `Provider.of`.
-
-## Questions/issues
-
-If you have a general question about Provider, the best places to go are:
-
-* [Provider documentation](https://pub.dev/documentation/provider/latest/)
-* [StackOverflow](https://stackoverflow.com/questions/tagged/flutter)
-
-If you run into an issue with the sample itself, please file an issue
-in the [main Flutter repo](https://github.com/flutter/flutter/issues).
